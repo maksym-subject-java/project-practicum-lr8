@@ -1,3 +1,3 @@
-# project-practicum-lr8
+# project-practicum-lr-18
 
 # Added this  text
